@@ -8,6 +8,11 @@ Explainable AI, AI Governance, Financial Crime Analytics, Decision-Centric AI, M
 
 ## Articles
 
+- Goswami, H. G. (2026). When Your AI Has a Wallet, Accuracy Stops Being Impressive.
+  Medium.
+  https://medium.com/@harshalgirigoswami/when-your-ai-has-a-wallet-accuracy-stops-being-impressive-9b793e9ed5c6
+
+
 - Goswami, H. G. (2025). Why “Accurate” AI Keeps Letting Financial Crime Teams Down.
   Medium.
   https://medium.com/@harshalgirigoswami/why-accurate-ai-keeps-letting-financial-crime-teams-down-60943295d59f?postPublishedType=initial
@@ -16,5 +21,6 @@ Explainable AI, AI Governance, Financial Crime Analytics, Decision-Centric AI, M
 - Goswami, H. G. (2025). *Explainable AI in Financial Crime: From Model Output to Defensible Decision*.  
   Medium.  
   https://medium.com/@harshalgirigoswami/explainable-ai-in-financial-crime-from-model-output-to-defensible-decision-3c0a94cac92a?postPublishedType=initial
+
 
 
