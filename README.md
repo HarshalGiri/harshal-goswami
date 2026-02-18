@@ -8,6 +8,11 @@ Explainable AI, AI Governance, Financial Crime Analytics, Decision-Centric AI, M
 
 ## Articles
 
+ - Goswami, H. G. (2026). When Your AI Starts Moving Money Without You.
+   Medium.
+   https://medium.com/@harshalgirigoswami/when-your-ai-starts-moving-money-without-you-4e5aad90f122
+   
+
 - Goswami, H. G. (2026). When Your AI Has a Wallet, Accuracy Stops Being Impressive.
   Medium.
   https://medium.com/@harshalgirigoswami/when-your-ai-has-a-wallet-accuracy-stops-being-impressive-9b793e9ed5c6
