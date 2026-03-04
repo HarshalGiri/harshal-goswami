@@ -8,6 +8,12 @@ Explainable AI, AI Governance, Financial Crime Analytics, Decision-Centric AI, M
 
 ## Articles
 
+
+ - Goswami, H. G. (2026). Your AI Agent Just Sent Money While You Were Sleeping.  
+   Medium.  
+   https://medium.com/@harshalgirigoswami/your-ai-agent-just-sent-money-while-you-were-sleeping-8f18a4bf391d
+
+
  - Goswami, H. G. (2026). When Your AI Starts Moving Money Without You.
    Medium.
    https://medium.com/@harshalgirigoswami/when-your-ai-starts-moving-money-without-you-4e5aad90f122
