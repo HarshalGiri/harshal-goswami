@@ -8,6 +8,9 @@ Explainable AI, AI Governance, Financial Crime Analytics, Decision-Centric AI, M
 
 ## Articles
 
+ - Goswami, H. G. (2026). *The First Job Your AI Will Replace Might Be Yours.*  
+   Medium.  
+   https://medium.com/p/5e3b1f318990?postPublishedType=initial
 
  - Goswami, H. G. (2026). Your AI Agent Just Sent Money While You Were Sleeping.  
    Medium.  
