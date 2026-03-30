@@ -7,9 +7,9 @@ My work and research focus on explainable and governed AI systems for financial 
 Explainable AI, AI Governance, Financial Crime Analytics, Decision-Centric AI, Model Risk Management
 
 ## Articles
-  -Goswami, H. G. (2026). Why AI Still Can’t Catch Criminals on the Blockchain (And What Needs to Change).  
-   Medium.  
-   https://medium.com/p/c4b57c18a4b2?postPublishedType=initial
+   -Goswami, H. G. (2026). Why AI Still Can’t Catch Criminals on the Blockchain (And What Needs to Change).  
+    Medium.  
+    https://medium.com/p/c4b57c18a4b2?postPublishedType=initial
 
  - Goswami, H. G. (2026). *The First Job Your AI Will Replace Might Be Yours.*  
    Medium.  
