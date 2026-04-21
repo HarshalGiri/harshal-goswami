@@ -8,6 +8,10 @@ Explainable AI, AI Governance, Financial Crime Analytics, Decision-Centric AI, M
 
 ## Articles
 
+ - Goswami, H. G. (2026). *The System Didn’t Fail. It Did Exactly What It Was Designed To Do.*  
+   Medium.  
+   https://medium.com/p/e85786422a13?postPublishedType=initial
+
  - Goswami, H. G. (2026). Why AI Still Can’t Catch Criminals on the Blockchain (And What Needs to Change).  
    Medium.  
    https://medium.com/p/c4b57c18a4b2?postPublishedType=initial
