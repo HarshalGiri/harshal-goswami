@@ -8,6 +8,10 @@ Explainable AI, AI Governance, Financial Crime Analytics, Decision-Centric AI, M
 
 ## Articles
 
+ - Goswami, H. G. (2026). *Your AI Agent Doesn’t Need a Manager. It Needs a Policy.*  
+   Medium.  
+   https://medium.com/p/b4b7651435f3?postPublishedType=initial
+
  - Goswami, H. G. (2026). *Your Crypto Wallet Is Probably Not What You Think It Is.*  
    Medium.  
    https://medium.com/@harshalgirigoswami/your-crypto-wallet-is-probably-not-what-you-think-it-is-e2c24b716975
