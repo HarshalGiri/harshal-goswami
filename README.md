@@ -8,6 +8,14 @@ Explainable AI, AI Governance, Financial Crime Analytics, Decision-Centric AI, M
 
 ## Articles
 
+ - Goswami, H. G. (2026). *Your Crypto Wallet Is Probably Not What You Think It Is.*  
+   Medium.  
+   https://medium.com/@harshalgirigoswami/your-crypto-wallet-is-probably-not-what-you-think-it-is-e2c24b716975
+
+ - Goswami, H. G. (2026). *The Strange Reality of Tracing Money on the Blockchain.*  
+   Medium.  
+   https://medium.com/@harshalgirigoswami/the-strange-reality-of-tracing-money-on-the-blockchain-0267f45eb3ef
+
  - Goswami, H. G. (2026). *The System Didn’t Fail. It Did Exactly What It Was Designed To Do.*  
    Medium.  
    https://medium.com/p/e85786422a13?postPublishedType=initial
