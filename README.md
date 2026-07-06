@@ -8,6 +8,23 @@ Explainable AI, AI Governance, Financial Crime Analytics, Decision-Centric AI, M
 
 ## Articles
 
+   
+ - Goswami, H. G. (2026). What If Fraud Doesn't Live in Transactions? What If It Lives Between Them?  
+   Medium.  
+   https://medium.com/@harshalgirigoswami/what-if-fraud-doesnt-live-in-transactions-what-if-it-lives-between-them-8205fa56f987
+   
+ - Goswami, H. G. (2026). Compliance Is About to Get a New Employee. It Won't Be Human.  
+   Medium.  
+   https://medium.com/@harshalgirigoswami/compliance-is-about-to-get-a-new-employee-it-wont-be-human-52003c610728
+   
+ - Goswami, H. G. (2026). The Weirdest Thing About Meme Coins Isn't That They Exist.  
+   Medium (CodeToDeploy).  
+   https://medium.com/codetodeploy/the-weirdest-thing-about-meme-coins-isnt-that-they-exist-4b877c72fe59
+
+ - Goswami, H. G. (2026). I Thought Bitcoin Was the Risk. I Was Looking in the Wrong Place.  
+   Medium (CodeToDeploy).  
+   https://medium.com/codetodeploy/i-thought-bitcoin-was-the-risk-i-was-looking-in-the-wrong-place-463c9affc3c8
+
  - Goswami, H. G. (2026). *Your AI Agent Doesn’t Need a Manager. It Needs a Policy.*  
    Medium.  
    https://medium.com/p/b4b7651435f3?postPublishedType=initial
@@ -54,7 +71,7 @@ Explainable AI, AI Governance, Financial Crime Analytics, Decision-Centric AI, M
 
 - Goswami, H. G. (2025). *Explainable AI in Financial Crime: From Model Output to Defensible Decision*.  
   Medium.  
-  https://medium.com/@harshalgirigoswami/explainable-ai-in-financial-crime-from-model-output-to-defensible-decision-3c0a94cac92a?postPublishedType=initial
+  https://medium.com/@harshalgirigoswami/explainable-ai-in-financial-crime-from-model-output-to-defensible-decision-3c0a94cac92a?     postPublishedType=initial
 
 
 
