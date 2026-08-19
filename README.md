@@ -8,10 +8,13 @@ Explainable AI, AI Governance, Financial Crime Analytics, Decision-Centric AI, M
 
 ## Articles
 
+- Goswami, H. G. (2026). Compliance Was Built to Watch Humans. What Happens When the Customer Is an AI Agent?  
+  Medium.  
+  https://medium.com/@harshalgirigoswami/compliance-was-built-to-watch-humans-what-happens-when-the-customer-is-   an-ai-agent-be8c71562e80?postPublishedType=initial
    
  - Goswami, H. G. (2026). What If Fraud Doesn't Live in Transactions? What If It Lives Between Them?  
    Medium.  
-   https://medium.com/@harshalgirigoswami/what-if-fraud-doesnt-live-in-transactions-what-if-it-lives-between-them-8205fa56f987
+   https://medium.com/@harshalgirigoswami/what-if-fraud-doesnt-live-in-transactions-what-if-it-lives-between-       them-8205fa56f987
    
  - Goswami, H. G. (2026). Compliance Is About to Get a New Employee. It Won't Be Human.  
    Medium.  
